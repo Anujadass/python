@@ -1,2 +1,1 @@
-# python
-uber case study
+uber case study python code
